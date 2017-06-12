@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Action ParserVer="1.1">
+    <Variable>Catalog</Variable>
+    <Name>部门2</Name>
+    <Address>000000001990038863</Address>
+    <Status>0</Status>
+    <Parent>000000000703574108</Parent>
+    <Subnum>1</Subnum>
+    <Operate>1</Operate>
+    <Sublist>
+        <Item>
+            <Name></Name>
+            <Address>00000000</Address>
+            <Privilege>%FF</Privilege>
+            <Parent></Parent>
+            <Status>0</Status>
+            <Subnum>1</Subnum>
+            <Sublist>
+                <Item>
+                    <Name>档案室</Name>
+                    <Address>000000000955679970</Address>
+                    <Privilege>%FF</Privilege>
+                    <Parent>000000001990038863</Parent>
+                    <Status>0</Status>
+                    <Longitude></Longitude>
+                    <Latitude></Latitude>
+                    <DecoderTag>SincereMediaLib</DecoderTag>
+                </Item>
+            </Sublist>
+        </Item>
+    </Sublist>
+</Action>
