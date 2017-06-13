@@ -7,7 +7,7 @@
 <jsp:useBean id="xml" class="com.clx.xml.XML"/>
 
 <body>
-<form method="post" action="TestOutputResult.jsp" target="_blank">
+<form method="post" action="TestXMLOutputResult.jsp" target="_blank">
     姓名：<input type="text" name="name">
     <input type="submit" value="提交">
 </form>
