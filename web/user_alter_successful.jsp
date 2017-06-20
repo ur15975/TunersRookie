@@ -15,7 +15,7 @@
 <font size="50px">
 <%
     UserDao.alter(obj.getId(), obj.getName(), obj.getPassword(), obj.getEmail());
-    List list = UserDao.select(obj.getId());
+    List list = UserDao.selectById(obj.getId());
     for (Object object : list) {
         User user = (User) object;
         out.print("ID：");

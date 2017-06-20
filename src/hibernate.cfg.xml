@@ -19,5 +19,6 @@
         <!-- Echo all executed SQL to stdout -->
         <property name="show_sql">true</property>
         <mapping resource="user.hbm.xml"/>
+        <mapping resource="TbEmployee.hbm.xml"/>
     </session-factory>
 </hibernate-configuration>

@@ -31,5 +31,29 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="volador5000@192.168.4.110" uuid="64124ab6-109a-42cd-803a-11d8e82e125a">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.4.110:1433;databaseName=volador5000</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Volador5000HK@192.168.4.110" uuid="5cdbfa3d-4f48-4ee6-b79f-feaf41475e83">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.4.110:1433;databaseName=Volador5000HK</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Volador5000LYY@192.168.4.110" uuid="cd1958c6-d906-4bfa-a908-db235aa259bf">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.4.110:1433;databaseName=Volador5000LYY</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SmartPAS@192.168.4.110" uuid="1b02bcad-3f55-4009-b907-6f96e2566fa6">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.4.110:1433;databaseName=SmartPAS</jdbc-url>
+    </data-source>
   </component>
 </project>
