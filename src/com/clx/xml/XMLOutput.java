@@ -1,6 +1,5 @@
 package com.clx.xml;
 
-import jdk.internal.util.xml.XMLStreamException;
 import org.dom4j.Document;
 import org.dom4j.DocumentHelper;
 import org.dom4j.Element;
@@ -21,10 +20,6 @@ public class XMLOutput {
         Document document = DocumentHelper.createDocument();
         Element rootElement = document.addElement("Name");
         rootElement.setText(root);
-//        XMLWriter xmlWriter = new XMLWriter(new FileWriter(new File("D:\\123.xml")));
-//        xmlWriter.write(document);
-//        xmlWriter.close();
-
 
         StringWriter stringWriter = new StringWriter();
 
@@ -36,15 +31,6 @@ public class XMLOutput {
         XMLWriter xmlWriter = new XMLWriter(new FileWriter(new File("D:\\123.xml")), outputFormat);
         xmlWriter.write(document);
         xmlWriter.close();
-
-
-//        FileOutputStream fileOutputStream = new FileOutputStream("D:\\123.xml");
-//        XMLWriter xmlWriter = new XMLWriter(fileOutputStream);
-//        xmlWriter.write(document.toString().getBytes("UTF-8"));
-//        xmlWriter.close();
-
-//        fileOutputStream.write(rootElement.toString().getBytes("UTF-8"));
-//        fileOutputStream.close();
 
     }
 }

@@ -9,6 +9,55 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="lib" />
+          <element id="file-copy" path="D:/JavaLib/cglib-3.1.jar" />
+          <element id="file-copy" path="D:/JavaLib/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="D:/JavaLib/xalan-2.7.1.jar" />
+          <element id="file-copy" path="D:/JavaLib/log4j-1.2.17.jar" />
+          <element id="file-copy" path="D:/JavaLib/commons-io-2.4.jar" />
+          <element id="file-copy" path="D:/JavaLib/slf4j-api-1.7.21.jar" />
+          <element id="file-copy" path="D:/JavaLib/xercesImpl-2.9.1.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/jts-1.13.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/jna-4.1.0.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/guava-18.0.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/antlr-2.7.7.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/c3p0-0.9.5.2.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/proxool-0.8.3.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/ehcache-2.10.3.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/waffle-jna-1.7.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/classmate-1.3.0.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/slf4j-api-1.7.7.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/byte-buddy-1.6.6.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/jandex-2.0.3.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/jna-platform-4.1.0.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/slf4j-simple-1.7.7.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/geolatte-geom-1.0.6.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/javassist-3.20.0-GA.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/jgroups-3.6.7.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/org.osgi.core-4.3.1.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/javax.interceptor-api-1.2.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/jboss-logging-3.3.0.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/org.osgi.compendium-4.3.1.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/postgresql-9.4-1200-jdbc41.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-c3p0-5.2.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-core-5.2.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-osgi-5.2.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/infinispan-core-8.2.5.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/mchange-commons-java-0.2.11.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-envers-5.2.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-ehcache-5.2.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-proxool-5.2.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-spatial-5.2.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/infinispan-commons-8.2.5.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-infinispan-5.2.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-jpamodelgen-5.2.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/jboss-marshalling-osgi-1.4.10.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-infinispan-5.2.10.Final-tests.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/hibernate-commons-annotations-5.0.1.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" />
+          <element id="file-copy" path="D:/JavaLib/hibernate/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" />
+          <element id="file-copy" path="D:/mysql-connector-java-5.1.40-bin.jar" />
         </element>
       </element>
     </root>
